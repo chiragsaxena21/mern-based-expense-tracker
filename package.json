@@ -1,0 +1,12 @@
+{
+  "name": "spendwise-mern-app",
+  "version": "1.0.0",
+  "description": "SpendWise - Personal Expense & Budget Tracker Full Stack MERN Application",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev"
+  },
+  "author": "Chirag Saxena",
+  "license": "ISC"
+}
